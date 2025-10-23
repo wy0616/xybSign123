@@ -10,7 +10,7 @@ const config = {
       needReport: false,
     }
   ],
-  wxPusherAppToken: "AT_oCtluSHSfjQdlLpuOJigvvSolroDQPZP",
+  wxPusherAppToken: "AT_HNZEmOSVXPdLDw6y0HYB7IX35V8bj5wD"
 };
 
 const modeCN = {
