@@ -15,7 +15,7 @@ const config = {
   ],
   qmsgKey: "", //qmsg酱key
   qmsgTo: "", //推送的qq号,用,分隔(可选)
-  wxPusherAppToken: "SPT_tIjyFzjc1Oq9Bvmr46l7vRht100b", // wxPusher 的 appToken
+  wxPusherAppToken: "AT_oCtluSHSfjQdlLpuOJigvvSolroDQPZP", // wxPusher 的 appToken
 };
 
 const modeCN = {
