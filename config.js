@@ -2,15 +2,15 @@ const config = {
   mode: "in",
   accounts: [
     {
-      username: "18379230102",
-      password: "ch15350214525",
+      username: "13630804521",
+      password: "Xiaoyixia2.",
       sign: true,
       reSign: false,
-      location: "121.50,30.99",
+      location: "116.79,39.99",
       needReport: false,
     }
   ],
-  wxPusherAppToken: "AT_HNZEmOSVXPdLDw6y0HYB7IX35V8bj5wD"
+  wxPusherAppToken: "AT_HNZEmOSVXPdLDw6y0HYB7IX35"
 };
 
 const modeCN = {
