@@ -2,8 +2,8 @@ const config = {
   mode: "in",
   accounts: [
     {
-      username: "13630804521",
-      password: "Xiaoyixia2.",
+      username: "15227718039",
+      password: "cjj20030304",
       sign: true,
       reSign: false,
       location: "116.80,40.00",
