@@ -6,7 +6,7 @@ const config = {
       password: "Xiaoyixia2.",
       sign: true,
       reSign: false,
-      location: "116.79,39.99",
+      location: "116.80,40.00",
       needReport: false,
     }
   ],
